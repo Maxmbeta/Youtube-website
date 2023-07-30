@@ -1,0 +1,346 @@
+
+.ne-yo-video-pic
+{
+    width:400px;
+    border-radius: 13px;;
+    margin-right:5px;
+    cursor:pointer;
+}
+
+.ne-yo-text
+{
+    font-family: Arial;
+    font-size:18px;
+    font-weight:bold;
+    width:350px;
+    margin-bottom:5px;
+    cursor:pointer;
+    margin-top:3px;
+}
+
+.more-music
+{
+    font-family:Arial;
+    font-size:12px;
+    font-weight:bold;
+    color:grey;
+    margin-top:5px;
+    cursor:pointer;
+}
+
+.ne-yo-profile-pic
+{
+    width:40px;
+    border-radius:40px;
+    cursor:pointer;
+  
+}
+
+.neyo,
+.ne-yo
+{
+    display:inline-block;
+    margin-left:5px;
+   
+}
+
+.neyo
+{
+    vertical-align: top;
+}
+
+
+
+.drippy-video-pic
+{
+    width:400px;
+    border-radius:13px;
+    margin-left:5px;
+    margin-right:5px;
+    cursor:pointer;
+}
+
+.drippy-text
+{
+    font-family:Arial;
+    font-size:16px;
+    font-weight:bold;
+    margin-bottom:5px;
+    cursor:pointer;
+    margin-top:3px;
+}
+
+.Drippy-name-text
+{
+    margin-top:5px;
+    color:grey;
+    font-family:Arial;
+    font-size:13px;
+    margin-bottom:3px;
+    cursor:pointer;
+}
+
+.driippy-views
+{
+    font-size:13px;
+    font-family:Arial;
+    color:grey;
+    font-weight:bold;
+    margin-top:3px;
+    cursor:pointer;
+}
+
+.driippy-profile-pic
+{
+    width:40px;
+    border-radius:40px;
+    margin-left:5px;
+    cursor:pointer;
+}
+
+.driippy,
+.drippy
+{
+    display:inline-block;
+    vertical-align: top;
+    margin-left:5px;
+}
+
+
+.domdom-video-pic
+{
+    width:400px;
+    margin-bottom:4px;
+    border-radius:13px;
+    margin-left:5px;
+    cursor:pointer;
+}
+
+.domdom-text
+{
+    font-size: 16px;
+    font-family:Arial;
+    font-weight:bold;
+    width:290px;
+    margin-top:3px;
+    margin-bottom:5px;
+    cursor:pointer;
+}
+
+.domdom-name-text
+{
+    font-family:arial;
+    font-size:13px;
+    font-weight:bold;
+    color:grey;
+    margin-top:5px;
+    margin-bottom:3px;
+    cursor:pointer;
+}
+
+.domdom-views
+{
+    margin-top:3px;
+    font-size:13px;
+    color:grey;
+    font-weight:bold;
+    font-family:arial;
+    cursor:pointer;
+}
+
+.domdom-profile-pic
+{
+    width:40px;
+    border-radius:40px;
+    margin-left:5px;
+    cursor:pointer;
+}
+
+.domdom,
+.dom-dom
+{
+    display: inline-block;
+    vertical-align: top;
+    margin-left:5px;
+}
+
+.party-video-pic
+{
+    width:400px;
+    border-radius:13px;
+    cursor:pointer;
+   
+}
+
+.Chris-Brown-text
+{
+    font-size: 16px;
+    font-family:Arial;
+    font-weight:bold;
+    width:350px;
+    margin-top:4px;
+    margin-bottom:3px;
+    cursor:pointer;
+}
+
+
+.Chris-Brown-views
+{
+    margin-top:3px;
+    font-size:13px;
+    color:grey;
+    font-weight:bold;
+    font-family:arial;
+    cursor:pointer;
+    margin-bottom:5px;
+
+}
+
+.Chris-name-text
+{
+    font-family:arial;
+    font-size:12px;
+    font-weight:bold;
+    color:grey;
+    margin-top:5px;
+    margin-bottom:3px;
+    cursor:pointer;
+}
+.brown-profile-pic
+{
+    width:40px;
+    border-radius:40px;
+    margin-left:5px;
+    cursor:pointer;
+}
+
+.brown,
+.brown-text
+{
+    display: inline-block;
+    vertical-align: top;
+    margin-left:5px;
+}
+
+
+.curry-video-pic
+{
+    width:400px;
+    border-radius:13px;
+    margin-right:3px;
+    cursor:pointer;
+}
+
+.curry-text
+{
+    font-size: 16px;
+    font-family:Arial;
+    font-weight:bold;
+    width:400px;
+    margin-top:3px;  
+    cursor:pointer;
+  
+}
+
+.curry-views
+{
+    margin-bottom:3px;
+    font-size:13px;
+    color:grey;
+    font-weight:bold;
+    font-family:arial; 
+    cursor:pointer;
+}
+
+.nba-text
+{
+    font-family:arial;
+    font-size:12px;
+    font-weight:bold;
+    color:grey;
+    margin-top:7px;
+    margin-bottom:3px;
+    cursor:pointer;
+}
+
+.warriors
+{
+    width:40px;
+    border-radius:40px;
+    cursor:pointer;
+}
+
+.warriors-profile-pic,
+.text
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Cr7-video-pic
+{
+    width:400px;
+    margin-left:3px;
+    border-radius: 13px;
+    cursor:pointer;
+}
+
+.fifa-profile,
+.video-text
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.fifa-profile-pic
+{
+    width: 40px;
+    border-radius:20px;
+    cursor:pointer;
+    
+}
+
+.fifa-23-text
+{
+    width:360px;
+    font-size: 16px;
+    font-family:Arial;
+    font-weight:bold;
+    margin-bottom:5px;
+    cursor:pointer;
+    margin-top: 3px;
+}
+
+.fifa-gamers-text
+{
+    font-family:arial;
+    font-size:13px;
+    font-weight:bold;
+    color:grey;
+    margin-top:5px;
+    margin-bottom:3px; 
+    cursor:pointer;
+}
+
+.benzema-views-text
+{
+    margin-top:3px;
+    font-size:13px;
+    color:grey;
+    font-weight:bold;
+    font-family:arial; 
+    cursor:pointer;
+}
+
+
+.ne-yo-video,
+.driippy-video,
+.domdom-video,
+.party-video,
+.curry-video,
+.benzema-video
+{
+    display: inline-block;
+    vertical-align: top;
+}
+

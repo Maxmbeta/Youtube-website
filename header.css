@@ -1,0 +1,70 @@
+.header
+{
+    height:50px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.left-section
+{
+    width:200px;
+    display: flex;
+    align-items: center;
+}
+
+.youtube-icon
+{
+    width:150px;
+}
+.middle-section
+{
+    flex:1;
+    margin-left:70px;
+    display: flex;
+    align-items:center;
+}
+
+.voice-icon
+{
+    width: 30px;
+    margin-left:15px;
+    border-radius: 20px;
+}
+
+.search-icon
+{
+    width:43px;
+    margin-left:-10px;
+}
+
+.search-box
+{
+    flex:1;
+    height: 36px;
+}
+
+.right-section
+{
+    width:200px;
+    margin-left:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.notification-icon
+{
+    width:25px;
+}
+
+.video-icon
+{
+    width:25px;
+}
+
+.locs
+{
+    width:40px;
+    border-radius: 40px;
+}
